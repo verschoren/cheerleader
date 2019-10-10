@@ -1,14 +1,6 @@
-# App name
+# Cheerleader for ZAT 2.0
 
-[brief description of the app]
+This is a clone of the Cheerleader app build for Zendesk ZAT v1.0.
+Hence this is deprecated in Oktober 2019, this quick clone replicates the functionality.
 
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+All copyright is still owned by https://www.zendesk.com/apps/support/cheerleader/
