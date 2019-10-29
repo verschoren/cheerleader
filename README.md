@@ -6,3 +6,6 @@ Hence this is deprecated in Oktober 2019, this quick clone replicates the functi
 All copyright is still owned by https://www.zendesk.com/apps/support/cheerleader/
 
 ![](assets/screenshot.png)
+
+### Install
+Download the [latest release](https://github.com/verschoren/cheerleader/releases/latest) and install as a private app.
